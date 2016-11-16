@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="auto_service_install">Install</string>
+    <string name="auto_service_ensure">OK</string>
+    <string name="auto_service_next">Next</string>
+    <string name="auto_service_exchange">Replace</string>
+    <string name="auto_service_complete">Done</string>
+
+    <string name="auto_service_install__material_">INSTALL</string>
+    <string name="auto_service_ensure__material_">OK</string>
+    <string name="auto_service_next__material_">NEXT</string>
+    <string name="auto_service_exchange__material_">REPLACE</string>
+    <string name="auto_service_complete__material_">DONE</string>
+
+</resources>

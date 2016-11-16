@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">accessibility</string>
+
+    <string name="auto_service_title">我的自动安装辅助功能</string>
+    <string name="auto_service_des">开启自动安装功能，很愉快的使用^_^...</string>
+
+    <string name="auto_service_install">安装</string>
+    <string name="auto_service_ensure">确定</string>
+    <string name="auto_service_next">下一步</string>
+    <string name="auto_service_exchange">替换</string>
+    <string name="auto_service_complete">完成</string>
+
+    <string name="auto_service_install__material_">安装</string>
+    <string name="auto_service_ensure__material_">确定</string>
+    <string name="auto_service_next__material_">下一步</string>
+    <string name="auto_service_exchange__material_">替换</string>
+    <string name="auto_service_complete__material_">完成</string>
+
+</resources>
