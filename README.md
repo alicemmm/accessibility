@@ -170,5 +170,7 @@ private void doAccessibilityEvent(AccessibilityEvent event) {
 
 目前有一个AppInstall的管理类，实现了Root安装，及accessibility安装的管理。让使用起来更加方便。
 
+[项目地址](https://github.com/alicemmm/accessibility)
+
 
 
